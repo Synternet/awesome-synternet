@@ -31,6 +31,7 @@ https://docs.synternet.com/build/
 
 - [Testnet](https://staking-testnet.synternet.com/)
 - [Mainnet](https://staking.synternet.com/)
+- [REStake SYNT](https://restake.app/synternet)
 
 # Data Layer Portal
 
