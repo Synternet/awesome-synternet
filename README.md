@@ -25,6 +25,7 @@ https://docs.synternet.com/build/
 
 - [Testnet](https://explorer-testnet.synternet.com/)
 - [Mainnet](https://explorer.synternet.com/)
+- [Validator Signing Performance](https://validatorperformance.daic.capital/Home/SigningPerf?chainId=149)
 
 # Staking
 
